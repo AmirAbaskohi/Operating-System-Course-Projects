@@ -1,0 +1,9 @@
+[submodule "XV6-modified"]
+	path = XV6-modified
+	url = https://github.com/AmirAbaskohi/XV6-modified
+[submodule "Parallel-Phone-Price-prediction"]
+	path = Parallel-Phone-Price-prediction
+	url = https://github.com/AmirAbaskohi/Parallel-Phone-Price-prediction
+[submodule "ShopMaxMinMultiProcess"]
+	path = ShopMaxMinMultiProcess
+	url = https://github.com/AmirAbaskohi/ShopMaxMinMultiProcess
